@@ -1,0 +1,39 @@
+@CHARSET "EUC-KR";
+
+table {
+	s
+	border-collapse: collapse;
+	margin: auto; 
+}
+
+th {
+	width: 50;
+	background-color: #4DC1B4;
+	color: #fff;
+	border-bottom-width: 0px;
+}
+
+td {
+	width: 150;
+	color: #fff;
+	border-bottom-width: 0px;
+}
+
+th,td {
+	margin: 0px;
+	padding : 9px;
+	font-size: 9pt;
+	color: black;
+}
+
+.button {
+	text-align:center;
+	background: #abd3b9;
+	color: black;
+	border: none;
+	padding: 10px;
+	margin: 0 auto;
+	cursor: pointer;
+	width: 90px;
+}
+
